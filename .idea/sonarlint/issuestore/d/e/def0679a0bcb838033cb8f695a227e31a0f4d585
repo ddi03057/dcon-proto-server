@@ -1,0 +1,24 @@
+
+J
+java:S1068
+"-Remove this unused "firstName" private field.(š„¦¿8°¡ÿø¼0
+N
+java:S1068",Remove this unused "lastName" private field.(ºàÑïúÿÿÿÿ8°¡ÿø¼0
+N
+java:S1068",Remove this unused "userName" private field.(Û”øÚøÿÿÿÿ8°¡ÿø¼0
+J
+java:S1068"-Remove this unused "userEmail" private field.(©’‘Ñ8±¡ÿø¼0
+G
+java:S1068"+Remove this unused "company" private field.(ö ¶r8±¡ÿø¼0
+F
+java:S1068")Remove this unused "phone" private field.(À†½´8±¡ÿø¼0
+J
+java:S1068"(Remove this unused "auth" private field.(¡øíÿÿÿÿÿ8±¡ÿø¼0
+J
+java:S1068"-Remove this unused "loginType" private field.(Ë­ÿ8±¡ÿø¼0
+F
+java:S1068")Remove this unused "useYn" private field.(‚§™·8±¡ÿø¼0
+L
+java:S1068"*Remove this unused "locale" private field.(şä…Äüÿÿÿÿ8±¡ÿø¼0
+O
+java:S1068"2Remove this unused "passwordInitYn" private field.(Ãî¾“8±¡ÿø¼0

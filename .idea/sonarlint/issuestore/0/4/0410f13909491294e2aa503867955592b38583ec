@@ -1,0 +1,23 @@
+
+i
+java:S1450"SRemove the "code" field and declare it as a local variable in the relevant methods.(íÖ‡¨
+r
+java:S1450"WRemove the "codeName" field and declare it as a local variable in the relevant methods.(ñÛö‹øÿÿÿÿ
+n
+java:S1450"SRemove the "desc" field and declare it as a local variable in the relevant methods.(ïºð¢ûÿÿÿÿ
+p
+java:S1450"URemove the "descKr" field and declare it as a local variable in the relevant methods.(ÁÝªœüÿÿÿÿ
+G
+java:S1948",Make "resultData" transient or serializable.(½–û‹ûÿÿÿÿ
+C
+java:S1068"-Remove this unused "timestamp" private field.(ƒÊí
+>
+java:S1068"(Remove this unused "code" private field.(íÖ‡¨
+G
+java:S1068",Remove this unused "codeName" private field.(ñÛö‹øÿÿÿÿ
+C
+java:S1068"(Remove this unused "desc" private field.(ïºð¢ûÿÿÿÿ
+E
+java:S1068"*Remove this unused "descKr" private field.(ÁÝªœüÿÿÿÿ
+I
+java:S1068".Remove this unused "resultData" private field.(½–û‹ûÿÿÿÿ

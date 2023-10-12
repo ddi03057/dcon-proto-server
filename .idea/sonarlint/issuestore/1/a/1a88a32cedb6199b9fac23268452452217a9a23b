@@ -1,0 +1,35 @@
+
+Q
+java:S1141ì"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+€
+java:S1488˜"dImmediately return this expression instead of assigning it to the temporary variable "userResource".(ş¢ƒÃùÿÿÿÿ
+x
+java:S1488È"\Immediately return this expression instead of assigning it to the temporary variable "list".(ÑÀ¹­ùÿÿÿÿ
+r
+java:S1104Q"WMake RESULT_CODE a static final constant or non-public and provide accessors if needed.(ƒóé€úÿÿÿÿ
+l
+java:S1104R"VMake FRIST_NAME a static final constant or non-public and provide accessors if needed.(Şœìà
+k
+java:S1104S"UMake LAST_NAME a static final constant or non-public and provide accessors if needed.(éÈú
+L
+java:S1444Q"1Make this "public static RESULT_CODE" field final(ƒóé€úÿÿÿÿ
+F
+java:S1444R"0Make this "public static FRIST_NAME" field final(Şœìà
+E
+java:S1444S"/Make this "public static LAST_NAME" field final(éÈú
+q
+java:S3008Q"VRename this field "RESULT_CODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒóé€úÿÿÿÿ
+k
+java:S3008R"URename this field "FRIST_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şœìà
+j
+java:S3008S"TRename this field "LAST_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÈú
+W	java:S125æ"<This block of commented-out lines of code should be removed.(­¼óÖøÿÿÿÿ
+N
+java:S1135í"2Complete the task associated to this TODO comment.(œøĞ÷üÿÿÿÿ
+Z
+java:S1854‰">Remove this useless assignment to local variable "resultCode".(¤‘ôšüÿÿÿÿ
+R	java:S125¶"<This block of commented-out lines of code should be removed.(‰Û±š
+W	java:S125¿"<This block of commented-out lines of code should be removed.(Ø½ÿ¯üÿÿÿÿ
+R	java:S125×"<This block of commented-out lines of code should be removed.(±ÅõÎ
+L
+java:S1068O"1Remove this unused "RESULT_STRING" private field.(¤åÈ‘øÿÿÿÿ
